@@ -35,6 +35,6 @@ subtitle: I aims to develop practical skills in industrial AI field
  
  GPA: 4.0 / 4.5
  
- # ** 아직 작성중입니다!!!! ** 
+ # **아직 작성중입니다!!!!** 
  
   </div>

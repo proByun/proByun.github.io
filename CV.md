@@ -27,7 +27,7 @@ subtitle: I aims to develop practical skills in industrial AI field
 
  Mar. 2022 ~ Present        Tech University of Korea
  
-                            Department of Smart Factory Convergence
+ Department of Smart Factory Convergence
  
  Thesis: 미정
  

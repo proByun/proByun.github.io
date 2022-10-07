@@ -21,7 +21,7 @@ author: Junhyun Byun
 
 navbar-links:
   About Me: 
-    - Introduction: "aboutme"
+    - My Story: "aboutme"
     - CV: "CV"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"

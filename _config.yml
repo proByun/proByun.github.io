@@ -20,8 +20,9 @@ author: Junhyun Byun
 ###############################################
 
 navbar-links:
-  CV: "CV"
-  About Me: "aboutme"
+  About Me: 
+    - Introduction: "aboutme"
+    - CV: "CV"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"

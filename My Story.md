@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: My Story
 subtitle: I aims to develop practical skills in industrial AI field
 ---
 

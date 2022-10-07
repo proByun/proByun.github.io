@@ -4,8 +4,8 @@ title: CV
 subtitle: I aims to develop practical skills in industrial AI field
 ---
 
-<div align="center">
- 
+<!--  <div align="center"> </div> -->
+  
  [![Github Badge](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/proByun/CV/blob/master/cv.pdf)](https://github.com/proByun/CV/blob/master/cv.pdf)
 
   # **Junhyun Byun**
@@ -36,4 +36,4 @@ subtitle: I aims to develop practical skills in industrial AI field
  
  # **아직 작성중입니다!!!!** 
  
-  </div>
+ 

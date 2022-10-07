@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 안녕하세요
-subtitle: Each post also has a subtitle
-comments: true
+subtitle: 안녕하세요!
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
 ---
 
 안녕하세요 변준현입니다.
